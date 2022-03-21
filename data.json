@@ -1,0 +1,52 @@
+{
+    "project" : [
+        {
+            "id": "0",
+            "project_name": "RandomQuote",
+            "description":"Random quote generator",
+            "technologies": ["javascript", "html", "css"],
+            "live_link": "randomQuote",
+            "github_link": "randomQuote_git",
+            "image_url": "/images/projectQuotes.PNG",
+            "image_url_1": "/images/projectQuotes.PNG",
+            "image_url_2": "/images/projectQuotes.PNG",
+            "image_url_3": "/images/projectQuotes.PNG"
+        },
+        {
+            "id": "1",
+            "project_name": "BMICalculator",
+            "description":"this javascript app calculates BMI using age and weight",
+            "technologies": ["javascript", "html", "css"],
+            "live_link": "randomQuote",
+            "github_link": "randomQuote_git",
+            "image_url": "/images/BMICalc.PNG",
+            "image_url_1": "/images/BMICalc.PNG",
+            "image_url_2": "/images/BMICalc.PNG",
+            "image_url_3": "/images/BMICalc.PNG"
+        },
+        {
+            "id": "2",
+            "project_name": "Pagination",
+            "description":"for this project, a concept of pagination is being implemented",
+            "technologies": ["javascript", "html", "css"],
+            "live_link": "randomQuote",
+            "github_link": "randomQuote_git",
+            "image_url": "/images/Pagination.PNG",
+            "image_url_1": "/images/Pagination.PNG",
+            "image_url_2": "/images/Pagination.PNG",
+            "image_url_3": "/images/Pagination.PNG"
+        },
+        {
+            "id": "3",
+            "project_name": "Fetch Api concept",
+            "description":"In this javascript project, concept of Gecth api project is demonstrated",
+            "technologies": ["javascript", "html", "css"],
+            "live_link": "randomQuote",
+            "github_link": "randomQuote_git",
+            "image_url": "/images/FetchApiPRoject.PNG",
+            "image_url_1": "/images/FetchApiPRoject.PNG",
+            "image_url_2": "/images/FetchApiPRoject.PNG",
+            "image_url_3": "/images/FetchApiPRoject.PNG"
+        }
+    ]
+}
